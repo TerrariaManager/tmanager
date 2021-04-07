@@ -1,4 +1,4 @@
-# tmanager
+# TManager
 An area where TManager users can contribute towards it.
 
 ![TManager Icon](tm-icon.png)
