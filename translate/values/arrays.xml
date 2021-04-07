@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filterTypes">
+        <item>Author</item>
+        <item>Title</item>
+        <item>Author &amp; Title</item>
+    </string-array>
+    <string-array name="PreviewAnimations">
+        <item>Default</item>
+        <item>Random</item>
+        <item>Accordion</item>
+        <item>Background 2 Foreground</item>
+        <item>Cube In</item>
+        <item>Depth Page</item>
+        <item>Fade</item>
+        <item>Flip Horizontal</item>
+        <item>Flip Page</item>
+        <item>Foreground 2 Background</item>
+        <item>Rotate Down</item>
+        <item>Rotate Up</item>
+        <item>Stack</item>
+        <item>Tablet</item>
+        <item>Zoom In</item>
+        <item>Zoom Out Slide</item>
+        <item>Zoom Out</item>
+    </string-array>
+    <string-array name="WorldTypes">
+        <item>Classic</item>
+        <item>Expert</item>
+        <item>Master</item>
+        <item>Journey</item>
+    </string-array>
+    <string-array name="PlayerTypes">
+        <item>Softcore</item>
+        <item>Mediumcore</item>
+        <item>Hardcore</item>
+        <item>Journey</item>
+    </string-array>
+    <string-array name="DownloadMethods">
+        <item>Default Method</item>
+        <item>DownloadManager</item>
+        <item>DownloadManager V2</item>
+        <item>AsyncTask</item>
+    </string-array>
+</resources>
