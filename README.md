@@ -1,6 +1,8 @@
 # tmanager
 An area where TManager users can contribute towards it.
 
+[This is TManager](https://jbro129.com/tm/)
+
 This project is to provide TManager users a few things: 
 
 - The ability to help better translate/add new language translations to TManager.
