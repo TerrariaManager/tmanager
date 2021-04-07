@@ -1,6 +1,8 @@
 # tmanager
 An area where TManager users can contribute towards it.
 
+![TManager Icon](tm-icon.png)
+
 [This is TManager](https://jbro129.com/tm/)
 
 This project is to provide TManager users a few things: 
