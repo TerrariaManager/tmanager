@@ -221,6 +221,5 @@
     <string name="android11_request">Presione el botón \'Usar esta carpeta\' para que TManager funcione con Android 11 y superior.</string>
     <string name="getting_dot">Obtener…</string>
     <string name="session_id">ID de sesión:</string>
-
-
+    <string name="copied_session_id">Se copió el ID de sesión en el portapapeles.</string>
 </resources>

@@ -221,5 +221,5 @@
     <string name="android11_request">Нажмите кнопку «Использовать эту папку», чтобы TManager работал с Android 11 и выше.</string>
     <string name="getting_dot">Получающий…</string>
     <string name="session_id">Идентификатор сессии:</string>
-
+    <string name="copied_session_id">Идентификатор сеанса скопирован в буфер обмена.</string>
 </resources>
