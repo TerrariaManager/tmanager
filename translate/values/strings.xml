@@ -227,5 +227,6 @@
     <string name="more_info">More Info</string>
     <string name="android11_request">Please press the \'Use This Folder\' button to have TManager work with Android 11 and above.</string>
     <string name="getting_dot">Getting…</string>
+    <string name="session_id">Session ID:</string>
 
 </resources>
