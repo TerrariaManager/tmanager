@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filterTypes">
+        <item>Автор</item>
+        <item>Заголовок</item>
+        <item>Автор &amp; Заголовок</item>
+    </string-array>
+    <string-array name="PreviewAnimations">
+        <item>По умолчанию</item>
+        <item>Случайный</item>
+        <item>Аккордеон</item>
+        <item>Фон 2 Передний план</item>
+        <item>Куб в</item>
+        <item>Страница глубины</item>
+        <item>Тускнеть</item>
+        <item>Отразить по горизонтали</item>
+        <item>Перевернуть страницу</item>
+        <item>Передний план 2 Фон</item>
+        <item>Повернуть вниз</item>
+        <item>Повернуть вверх</item>
+        <item>Куча</item>
+        <item>Планшет</item>
+        <item>Увеличить</item>
+        <item>Уменьшить слайд</item>
+        <item>Уменьшить</item>
+    </string-array>
+    <string-array name="WorldTypes">
+        <item>Классический</item>
+        <item>Эксперт</item>
+        <item>Владелец</item>
+        <item>Путешествие</item>
+    </string-array>
+    <string-array name="PlayerTypes">
+        <item>Эротика</item>
+        <item>Средний ядро</item>
+        <item>Хардкор</item>
+        <item>Путешествие</item>
+    </string-array>
+    <string-array name="DownloadMethods">
+        <item>Метод по умолчанию</item>
+        <item>Менеджер загрузки</item>
+        <item>Менеджер загрузки V2</item>
+        <item>AsyncTask</item>
+    </string-array>
+</resources>

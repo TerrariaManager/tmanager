@@ -75,9 +75,9 @@
   <string name="preview_animation_type">预览动画类型：</string>
   <string name="check_for_updates">查询更新…</string>
   <string name="up_to_date">最新。</string>
-  <string name="error_checking_for_updates">检查更新时出错...</string>
+  <string name="error_checking_for_updates">检查更新时出错…</string>
   <string name="internet_is_needed_to_update">需要互联网才能检查更新…</string>
-  <string name="could_not_init">无法初始化...请连接到互联网。</string>
+  <string name="could_not_init">无法初始化…请连接到互联网。</string>
   <string name="please_wait">请稍等…</string>
   <string name="initializing">初始化中</string>
   <string name="terraria_needs_tobe_installed">需要安装 Terraria</string>
@@ -85,7 +85,7 @@
   <string name="press_again_to_update">再按一次退出！</string>
   <string name="internet_is_needed_to_function">需要互联网访问才能正常运行！</string>
   <string name="storage_is_needed">需要存储权限才能正常运行！</string>
-  <string name="error_server_data">获取服务器数据时出错...</string>
+  <string name="error_server_data">获取服务器数据时出错…</string>
   <string name="no_worldplayer_exist">没有世界或玩家存在。</string>
   <string name="launching">启动中…</string>
   <string name="not_a_player_or_world">不是.wld 或.plr 文件。</string>
@@ -115,7 +115,7 @@
   <string name="cant_vote_until_try_world">您必须先下载并试用世界，然后才能投票。</string>
   <string name="cant_vote_until_try_player">您必须先下载并试用玩家，才能投票。</string>
   <string name="cannot_downvote">无法投下赞成票…已经投了赞成票。</string>
-  <string name="cannot_upvote">无法投票...已经投了反对票。</string>
+  <string name="cannot_upvote">无法投票…已经投了反对票。</string>
   <string name="undoing_vote">已投票…撤消投票</string>
   <string name="downvote_successful">下投成功。</string>
   <string name="upvote_successful">投票成功。</string>
@@ -126,15 +126,15 @@
   <string name="internet_is_needed_to_getplayers">需要互联网访问才能吸引玩家…</string>
   <string name="alreadyon_1st_page">已经在第一页。</string>
   <string name="space_isthelastpage"> 是最后一页。</string>
-  <string name="internet_is_needed_to_getworlds">需要互联网才能获得世界...</string>
-  <string name="error_getting_worlds">获取世界时出错...请重试。</string>
+  <string name="internet_is_needed_to_getworlds">需要互联网才能获得世界…</string>
+  <string name="error_getting_worlds">获取世界时出错…请重试。</string>
   <string name="ads_removed">广告已删除。</string>
   <string name="space_filter_created"> 过滤器已创建。</string>
   <string name="filter_empty_applied">清空过滤器已应用。</string>
   <string name="filter_deleted">过滤条件已删除。</string>
   <string name="internet_is_needed_to_getservers">为了获得服务器，需要互联网访问…</string>
   <string name="internet_is_needed_to_getseeds">需要互联网访问才能获得种子…</string>
-  <string name="error_getting_servers">获取服务器时出错...请重试。</string>
+  <string name="error_getting_servers">获取服务器时出错…请重试。</string>
   <string name="space_was_copied_to_clip">已复制到剪贴板。</string>
   <string name="custom_discord_message">为了在 Discord 服务器上正确提交文件，您必须进入＃tm-submissions 文本通道并提供在该通道上指定的信息。</string>
   <string name="custom_discord_button">前往 Discord</string>
@@ -157,7 +157,7 @@
   <string name="only_show_new">显示最新添加的</string>
   <string name="filter_show_4days">显示过去{0}天内上传的世界/玩家。</string>
   <string name="filter_notyet_applied">您的过滤器更改尚未保存。再按一次“返回”即可返回。</string>
-  <string name="filter_nothing_toapply">没什么可申请的...</string>
+  <string name="filter_nothing_toapply">没什么可申请的…</string>
   <string name="filter_applied">过滤器已应用！</string>
   <string name="disable_all_button_sounds">禁用所有按钮声音</string>
   <string name="disable_pages">禁用页面</string>
@@ -193,7 +193,7 @@
   <string name="unknown">未知</string>
   <string name="custom_tmanager">您可以将文件提交到 TManager 提交网站。</string>
   <string name="submission_website">提交网站</string>
-  <string name="download_failed_change_method">下载失败...请更改下载方法。</string>
+  <string name="download_failed_change_method">下载失败…请更改下载方法。</string>
   <string name="an_error_has_occured">发生了错误…</string>
   <string name="try_a_random_world">尝试随机世界</string>
   <string name="try_a_random_player">尝试随机玩家</string>

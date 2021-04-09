@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filterTypes">
+        <item>Autor</item>
+        <item>Título</item>
+        <item>Autor &amp; Título</item>
+    </string-array>
+    <string-array name="PreviewAnimations">
+        <item>Padrão</item>
+        <item>Aleatório</item>
+        <item>Acordeão</item>
+        <item>Fundo 2 Primeiro Plano</item>
+        <item>Cube In</item>
+        <item>Página de Profundidade</item>
+        <item>Desaparecer</item>
+        <item>Virar na horizontal</item>
+        <item>Virar a página</item>
+        <item>Fundo 2 do primeiro plano</item>
+        <item>Girar para baixo</item>
+        <item>Girar para cima</item>
+        <item>Pilha</item>
+        <item>Tábua</item>
+        <item>Mais Zoom</item>
+        <item>Zoom Out Slide</item>
+        <item>Reduzir o zoom</item>
+    </string-array>
+    <string-array name="WorldTypes">
+        <item>Clássico</item>
+        <item>Especialista</item>
+        <item>Mestre</item>
+        <item>Jornada</item>
+    </string-array>
+    <string-array name="PlayerTypes">
+        <item>Softcore</item>
+        <item>Mediumcore</item>
+        <item>Hardcore</item>
+        <item>Jornada</item>
+    </string-array>
+    <string-array name="DownloadMethods">
+        <item>Método Padrão</item>
+        <item>Gerenciador de download</item>
+        <item>Gerenciador de download V2</item>
+        <item>AsyncTask</item>
+    </string-array>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filterTypes">
+        <item>Autor</item>
+        <item>Título</item>
+        <item>Autor y título</item>
+    </string-array>
+    <string-array name="PreviewAnimations">
+        <item>Defecto</item>
+        <item>Random</item>
+        <item>Aleatorio</item>
+        <item>Fondo 2 Primer plano</item>
+        <item>Cubo en</item>
+        <item>Página de profundidad</item>
+        <item>Desteñir</item>
+        <item>Flip Horizontal</item>
+        <item>Voltear página</item>
+        <item>Primer plano 2 Fondo</item>
+        <item>Girar hacia abajo</item>
+        <item>Girar hacia arriba</item>
+        <item>Apilar</item>
+        <item>Tableta</item>
+        <item>Acercarse</item>
+        <item>Alejar diapositiva</item>
+        <item>Disminuir el zoom</item>
+    </string-array>
+    <string-array name="WorldTypes">
+        <item>Clásico</item>
+        <item>Experto</item>
+        <item>Maestría</item>
+        <item>Viaje</item>
+    </string-array>
+    <string-array name="PlayerTypes">
+        <item>Softcore</item>
+        <item>Núcleo medio</item>
+        <item>Duro</item>
+        <item>Viaje</item>
+    </string-array>
+    <string-array name="DownloadMethods">
+        <item>Método predeterminado</item>
+        <item>Gestor de descargas</item>
+        <item>Gestor de descargas V2</item>
+        <item>AsyncTask</item>
+    </string-array>
+</resources>

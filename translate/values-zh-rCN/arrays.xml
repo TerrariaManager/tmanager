@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filterTypes">
+        <item>作者</item>
+        <item>标题</item>
+        <item>作者和 标题</item>
+    </string-array>
+    <string-array name="PreviewAnimations">
+        <item>默认</item>
+        <item>随机的</item>
+        <item>手风琴</item>
+        <item>背景2前景</item>
+        <item>多维数据集</item>
+        <item>深度页面</item>
+        <item>褪色</item>
+        <item>水平翻转</item>
+        <item>翻页</item>
+        <item>前景2背景</item>
+        <item>向下旋转</item>
+        <item>向上旋转</item>
+        <item>堆</item>
+        <item>药片</item>
+        <item>放大</item>
+        <item>缩小幻灯片</item>
+        <item>缩小</item>
+    </string-array>
+    <string-array name="WorldTypes">
+        <item>经典的</item>
+        <item>专家</item>
+        <item>掌握</item>
+        <item>旅行</item>
+    </string-array>
+    <string-array name="PlayerTypes">
+        <item>经典的</item>
+        <item>中核</item>
+        <item>硬派</item>
+        <item>旅行</item>
+    </string-array>
+    <string-array name="DownloadMethods">
+        <item>预设方式</item>
+        <item>下载管理器</item>
+        <item>下载管理器 V2</item>
+        <item>异步任务</item>
+    </string-array>
+</resources>
