@@ -9,7 +9,7 @@ This project is to provide TManager users a few things:
 
 - The ability to help better translate/add new language translations to TManager.
 
-    - TManager currently support these languages: English, Spanish, Russian, Portuguese and Chinese.
+    - TManager currently support these languages: English, Spanish, Russian, Portuguese, and Chinese.
   
     - Current English Strings are [here](https://github.com/jbro129/tmanager/blob/main/translate/values/strings.xml)
   
