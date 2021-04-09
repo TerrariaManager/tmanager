@@ -9,13 +9,17 @@ This project is to provide TManager users a few things:
 
 - The ability to help better translate/add new language translations to TManager.
 
-    - TManager currently support these languages: English, Spanish, and Russian. (Portuguese and Chinese are in progress)
+    - TManager currently support these languages: English, Spanish, Russian, Portuguese and Chinese.
   
     - Current English Strings are [here](https://github.com/jbro129/tmanager/blob/main/translate/values/strings.xml)
   
     - Current Spanish Strings are [here](https://github.com/jbro129/tmanager/blob/main/translate/values-es/strings.xml)
   
-    - Current Russian Spanish are [here](https://github.com/jbro129/tmanager/blob/main/translate/values-ru/strings.xml)
+    - Current Russian Strings are [here](https://github.com/jbro129/tmanager/blob/main/translate/values-ru/strings.xml)
+  
+    - Current Portuguese Strings are [here](https://github.com/jbro129/tmanager/blob/main/translate/values-pt/strings.xml)
+  
+    - Current Chinese Strings are [here](https://github.com/jbro129/tmanager/blob/main/translate/values-zh-rCN/strings.xml)
 
     - If you feel like translating TManager to other languages then you can submit a [pull request](https://github.com/jbro129/tmanager/pulls).
 
