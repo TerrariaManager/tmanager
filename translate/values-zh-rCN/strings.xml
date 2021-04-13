@@ -16,7 +16,7 @@
   <string name="data_download">下载</string>
   <string name="about_title">关于</string>
   <string name="about_author">经由 Jbro129</string>
-  <string name="about_contact">如有任何疑问，请通过 tmapp\@jbro129.com 与我们联系。</string>
+  <string name="about_contact">如有任何疑问，请通过 tmapp@jbro129.com 与我们联系。</string>
   <string name="custom_title">定制</string>
   <string name="custom_text1">您是否有想要在这里宣传的世界或玩家？</string>
   <string name="custom_text2">您必须提供以下内容，才能对您的提交进行审核。</string>
@@ -220,4 +220,5 @@
   <string name="getting_dot">得到…</string>
   <string name="session_id">会话ID:</string>
   <string name="copied_session_id">会话ID已复制到剪贴板。</string>
+    <string name="about_github">查看TManager GitHub</string>
 </resources>

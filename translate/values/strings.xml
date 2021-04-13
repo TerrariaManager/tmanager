@@ -2,6 +2,9 @@
 <resources>
     <string name="app_name" translatable="false">Terraria Manager</string>
 
+    <string name="aduidTest" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="aduid" translatable="false">ca-app-pub-1059251413551012/6392923233</string>
+
     <string name="filter_title">Filter</string>
     <string name="filter_search">Type search here</string>
     <string name="filter_case_sensitive">Search is case sensitive</string>
@@ -229,4 +232,6 @@
     <string name="getting_dot">Getting…</string>
     <string name="session_id">Session ID:</string>
     <string name="copied_session_id">Session ID copied to clipboard.</string>
+    <string name="about_github">Check out the TManager GitHub</string>
+
 </resources>

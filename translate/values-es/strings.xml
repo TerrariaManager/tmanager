@@ -222,6 +222,7 @@
     <string name="getting_dot">Obtener…</string>
     <string name="session_id">ID de sesión:</string>
     <string name="copied_session_id">Se copió el ID de sesión en el portapapeles.</string>
+    <string name="about_github">Echa un vistazo a TManager GitHub</string>
 
 
 </resources>

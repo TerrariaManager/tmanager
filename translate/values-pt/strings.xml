@@ -220,4 +220,5 @@
   <string name="getting_dot">Obtendo…</string>
   <string name="session_id">Identificação de sessão:</string>
   <string name="copied_session_id">ID da sessão copiada para a área de transferência.</string>
+    <string name="about_github">Confira o TManager GitHub</string>
 </resources>
