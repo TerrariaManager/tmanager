@@ -233,5 +233,6 @@
     <string name="session_id">Session ID:</string>
     <string name="copied_session_id">Session ID copied to clipboard.</string>
     <string name="about_github">Check out the TManager GitHub</string>
+    <string name="android11_request_redo">The directory you have selected is invalid, please try again.</string>
 
 </resources>

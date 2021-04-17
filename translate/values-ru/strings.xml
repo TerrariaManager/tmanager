@@ -223,5 +223,6 @@
     <string name="session_id">Идентификатор сессии:</string>
     <string name="copied_session_id">Идентификатор сеанса скопирован в буфер обмена.</string>
     <string name="about_github">Проверьте TManager GitHub</string>
+    <string name="android11_request_redo">Выбранный вами каталог недействителен, попробуйте еще раз.</string>
 
 </resources>

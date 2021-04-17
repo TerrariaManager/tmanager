@@ -221,4 +221,5 @@
   <string name="session_id">会话ID:</string>
   <string name="copied_session_id">会话ID已复制到剪贴板。</string>
     <string name="about_github">查看TManager GitHub</string>
+    <string name="android11_request_redo">您选择的目录无效，请重试。</string>
 </resources>
