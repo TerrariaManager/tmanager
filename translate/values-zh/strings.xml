@@ -63,9 +63,6 @@
   <string name="tm_exclusive">Terraria 独家管理器</string>
   <string name="disclaimer">免责声明</string>
   <string name="disclaimer2">Terra505 管理器不是 505 Games Srl 游戏开发商的官方应用。所有权利归属 Terraria 505 Games Srl 所有。Terraria 管理器包含其用户已提交的 UGC（用户生成的内容）。Terraria 管理器和 Jbro129 LLC 对提交给 Terraria 管理器的内容概不负责。所有 UGC 均归功于此应用程序上托管的内容的所有者和/或创建者。</string>
-  <string name="include_tl">包括 TL Pro 世界和玩家</string>
-  <string name="tl_message">在 Terraria 管理器中导入和导出文件时，请包括 TL Pro 环境和玩家。</string>
-  <string name="tl_title">包括 TL Pro 文件</string>
   <string name="directory">目录</string>
   <string name="page">页码：</string>
   <string name="change_language">更改语言</string>

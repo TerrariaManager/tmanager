@@ -63,10 +63,7 @@
     <string name="tm_exclusive">Una exclusiva de Terraria Manager</string>
     <string name="disclaimer">Descargo de responsabilidad</string>
     <string name="disclaimer2">Terraria Manager no es una aplicación oficial de los desarrolladores de juegos de 505 Games Srl. Todos los derechos pertenecen a Terraria 505 Games Srl. \n \n Terraria Manager contiene UGC (Contenido generado por el usuario) que ha sido enviado por sus usuarios. Terraria Manager y Jbro129 LLC no son responsables del contenido enviado a Terraria Manager. Todos los UGC se acreditan al propietario y/o creadores del contenido alojado en esta aplicación.</string>
-    <string name="include_tl">Incluye TL Pro mundos y jugadores</string>
     <string name="ok">Bueno</string>
-    <string name="tl_message">Incluya TL Pro mundos y jugadores al importar y exportar archivos en Terraria Manager.</string>
-    <string name="tl_title">Incluir archivos TL Pro</string>
     <string name="refresh">Actualizar</string>
     <string name="directory">Directorio</string>
     <string name="page">Página:</string>
