@@ -217,6 +217,10 @@
   <string name="getting_dot">得到…</string>
   <string name="session_id">会话ID:</string>
   <string name="copied_session_id">会话ID已复制到剪贴板。</string>
-    <string name="about_github">查看TManager GitHub</string>
-    <string name="android11_request_redo">您选择的目录无效，请重试。</string>
+  <string name="about_github">查看TManager GitHub</string>
+  <string name="android11_request_redo">您选择的目录无效，请重试。</string>
+  <string name="swapping_for_upvote">取消投票并投票</string>
+  <string name="swapping_for_downvote">取消投票并投票否决</string>
+  <string name="wipe_tmanager">清除 TManager</string>
+  <string name="tmclear_warning">通过清除 TManager，您将删除所有以前缓存的文件和保存的首选项。 仅当先前下载的内容出现问题时才建议清除。 一旦您清除了 TManager，就无法撤消。 您确定要清除 TManagers 数据吗？</string>
 </resources>

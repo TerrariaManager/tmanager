@@ -221,5 +221,8 @@
     <string name="copied_session_id">Идентификатор сеанса скопирован в буфер обмена.</string>
     <string name="about_github">Проверьте TManager GitHub</string>
     <string name="android11_request_redo">Выбранный вами каталог недействителен, попробуйте еще раз.</string>
-
+    <string name="swapping_for_upvote">Удаление голоса и голосование</string>
+    <string name="swapping_for_downvote">Удаление голоса и голосование против</string>
+    <string name="wipe_tmanager">Протрите TManager</string>
+    <string name="tmclear_warning">Вытирая TManager, вы удаляете все ранее кэшированные файлы и сохраненные настройки. Очистка рекомендуется только при наличии проблем с ранее загруженным контентом. После того, как вы очистите TManager, его нельзя будет отменить. Вы уверены, что хотите очистить данные TManager?</string>
 </resources>

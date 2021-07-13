@@ -2,9 +2,6 @@
 <resources>
     <string name="app_name" translatable="false">Terraria Manager</string>
 
-    <string name="aduidTest" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="aduid" translatable="false">ca-app-pub-1059251413551012/6392923233</string>
-
     <string name="filter_title">Filter</string>
     <string name="filter_search">Type search here</string>
     <string name="filter_case_sensitive">Search is case sensitive</string>
@@ -231,5 +228,8 @@
     <string name="copied_session_id">Session ID copied to clipboard.</string>
     <string name="about_github">Check out the TManager GitHub</string>
     <string name="android11_request_redo">The directory you have selected is invalid, please try again.</string>
-
+    <string name="swapping_for_upvote">Removing downvote and upvoting</string>
+    <string name="swapping_for_downvote">Removing upvote and downvoting</string>
+    <string name="wipe_tmanager">Wipe TManager</string>
+    <string name="tmclear_warning">By wiping TManager you are deleting all previously cached files and saved preferences. Clearing is only recommended when there are issues with previously downloaded content. Once you clear TManager, it cannot be undone. Are you sure you want to clear TManagers data?</string>
 </resources>

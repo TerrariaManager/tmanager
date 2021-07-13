@@ -221,6 +221,8 @@
     <string name="copied_session_id">Se copió el ID de sesión en el portapapeles.</string>
     <string name="about_github">Echa un vistazo a TManager GitHub</string>
     <string name="android11_request_redo">El directorio que ha seleccionado no es válido. Vuelva a intentarlo.</string>
-
-
+    <string name="swapping_for_upvote">Eliminando el voto y votando hacia arriba</string>
+    <string name="swapping_for_downvote">Eliminar el voto y votar en contra</string>
+    <string name="wipe_tmanager">Limpiar TManager</string>
+    <string name="tmclear_warning">Al limpiar TManager, está eliminando todos los archivos previamente almacenados en caché y las preferencias guardadas. Solo se recomienda borrar cuando hay problemas con el contenido descargado anteriormente. Una vez que borre TManager, no se puede deshacer. ¿Está seguro de que desea borrar los datos de TManagers?</string>
 </resources>

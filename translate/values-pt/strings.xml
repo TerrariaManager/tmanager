@@ -217,6 +217,10 @@
   <string name="getting_dot">Obtendo…</string>
   <string name="session_id">Identificação de sessão:</string>
   <string name="copied_session_id">ID da sessão copiada para a área de transferência.</string>
-    <string name="about_github">Confira o TManager GitHub</string>
-    <string name="android11_request_redo">O diretório que você selecionou é inválido, tente novamente.</string>
+  <string name="about_github">Confira o TManager GitHub</string>
+  <string name="android11_request_redo">O diretório que você selecionou é inválido, tente novamente.</string>
+  <string name="swapping_for_upvote">Removendo o voto e votando a favor</string>
+  <string name="swapping_for_downvote">Removendo o voto e votando contra</string>
+  <string name="wipe_tmanager">TManager limpo</string>
+  <string name="tmclear_warning">Ao limpar o TManager, você está excluindo todos os arquivos previamente armazenados em cache e preferências salvas. A limpeza só é recomendada quando há problemas com o conteúdo baixado anteriormente. Depois de limpar o TManager, ele não pode ser desfeito. Tem certeza de que deseja limpar os dados do TManagers?</string>
 </resources>
