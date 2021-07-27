@@ -37,9 +37,7 @@
         <item>Путешествие</item>
     </string-array>
     <string-array name="DownloadMethods">
-        <item>Метод по умолчанию</item>
-        <item>Менеджер загрузки</item>
-        <item>Менеджер загрузки V2</item>
-        <item>AsyncTask</item>
+        <item>Автоматически (по умолчанию)</item>
+        <item>Руководство по эксплуатации</item>
     </string-array>
 </resources>

@@ -37,9 +37,7 @@
         <item>Journey</item>
     </string-array>
     <string-array name="DownloadMethods">
-        <item>Default Method</item>
-        <item>DownloadManager</item>
-        <item>DownloadManager V2</item>
-        <item>AsyncTask</item>
+        <item>Automatic (Default)</item>
+        <item>Manual</item>
     </string-array>
 </resources>

@@ -37,9 +37,7 @@
         <item>Viaje</item>
     </string-array>
     <string-array name="DownloadMethods">
-        <item>Método predeterminado</item>
-        <item>Gestor de descargas</item>
-        <item>Gestor de descargas V2</item>
-        <item>AsyncTask</item>
+        <item>Automático (predeterminado)</item>
+        <item>Manual</item>
     </string-array>
 </resources>

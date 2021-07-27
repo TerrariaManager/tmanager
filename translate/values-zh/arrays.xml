@@ -37,9 +37,7 @@
         <item>旅行</item>
     </string-array>
     <string-array name="DownloadMethods">
-        <item>预设方式</item>
-        <item>下载管理器</item>
-        <item>下载管理器 V2</item>
-        <item>异步任务</item>
+        <item>自动（默认）</item>
+        <item>手动的</item>
     </string-array>
 </resources>

@@ -37,9 +37,7 @@
         <item>Jornada</item>
     </string-array>
     <string-array name="DownloadMethods">
-        <item>Método Padrão</item>
-        <item>Gerenciador de download</item>
-        <item>Gerenciador de download V2</item>
-        <item>AsyncTask</item>
+        <item>Automático (padrão)</item>
+        <item>Manual</item>
     </string-array>
 </resources>
